@@ -198,7 +198,7 @@ An early web development project in PHP, built on XAMPP.
 | **Backend** | Node.js · Express · Python · FastAPI · REST APIs |
 | **Data & search** | PostgreSQL · MySQL · Prisma · Elasticsearch |
 | **Infrastructure** | Docker · Docker Compose · Git · GitHub · Kubernetes configurations |
-| **Languages** | TypeScript · JavaScript · Python · C++ · PHP · HTML · CSS |
+| **Languages** | TypeScript · JavaScript · Python  · PHP · HTML · CSS |
 
 
 ---
