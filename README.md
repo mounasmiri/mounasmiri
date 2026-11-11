@@ -186,7 +186,7 @@ An early web development project in PHP, built on XAMPP.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css,nodejs,express,python,fastapi,php,cpp&theme=dark" alt="Languages and frameworks" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css,nodejs,express,python,fastapi,php&theme=dark" alt="Languages and frameworks" />
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,elasticsearch,docker,kubernetes,git,github&theme=dark" alt="Data and infrastructure" />
 
