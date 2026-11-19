@@ -1,4 +1,6 @@
-<!-- Repo: mounasmiri/mounasmiri (public, same name as your username) -->
+# Mouna Smiri
+
+<!-- Repo: mounasmiri/mounasmiri — public profile repository -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Mouna%20Smiri&fontSize=56&fontColor=F4F0E9&fontAlignY=38&desc=Logic%20with%20a%20little%20imagination&descSize=18&descColor=D8C2C0&descAlignY=60" width="100%" alt="Mouna Smiri" />
 
@@ -10,15 +12,14 @@
 ![Graduating](https://img.shields.io/badge/Graduating-June_2027-D5B77A?style=flat-square&labelColor=101827)
 ![Languages](https://img.shields.io/badge/FR_·_EN-A9A18F?style=flat-square&labelColor=101827)
 
-[**Portfolio**](https://YOUR-PORTFOLIO-URL) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/YOUR-HANDLE) &nbsp;·&nbsp; [**Email**](mailto:YOUR-EMAIL)
+[**Portfolio**](https://mounaportfolio.vercel.app) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/mouna-smiri-1aa234338/) &nbsp;·&nbsp; [**GitHub**](https://github.com/mounasmiri) &nbsp;·&nbsp; [**Email**](mailto:Mouna.smiri@etudiant-isi.utm.tn)
 
 </div>
 
 <br/>
 
-
 <div align="center">
-  
+
 ### Choose your path
 
 | [Projects](#selected-projects) | [Toolkit](#toolkit) | [Activity](#activity) | [Beyond code](#beyond-the-terminal) | [Hire me](#lets-build-something) |
@@ -41,6 +42,7 @@ I like understanding what happens beneath the interface: how applications are st
 <td width="50%" valign="top">
 
 **Currently focused on**
+
 - Full-stack and mobile development
 - Backend architecture, databases, and search
 - Product engineering and user-centred problem solving
@@ -49,9 +51,10 @@ I like understanding what happens beneath the interface: how applications are st
 <td width="50%" valign="top">
 
 **Next step**
+
 - 4–6 month **PFE internship**, starting **Jan/Feb 2027**
-- Real software products, strong engineers to learn from
-- Full-stack / product engineering roles
+- Real software products and strong engineering teams
+- Full-stack / product engineering opportunities
 
 </td>
 </tr>
@@ -127,7 +130,7 @@ Organise your actual garments, build outfits, track what you've worn recently, a
 
 `React 19` `TypeScript` `Vite` `Tailwind CSS v4` `shadcn/ui` `Express 5` `Prisma 7` `PostgreSQL` `Zod`
 
-`Status: final refinements` &nbsp;→&nbsp; [**Explore the repository**](https://github.com/mounasmiri?tab=repositories)
+`Status: final refinements` &nbsp;→&nbsp; [**Explore my repositories**](https://github.com/mounasmiri?tab=repositories)
 
 ---
 
@@ -138,6 +141,7 @@ Organise your actual garments, build outfits, track what you've worn recently, a
 <td width="50%" valign="top">
 
 #### Life OS
+
 A self-hosted personal dashboard for habits, workouts, meals, sleep, and routines, with no accounts, cloud dependency, or subscriptions.
 
 `Dashboard design` `Self-hosting` `Productivity`
@@ -148,6 +152,7 @@ A self-hosted personal dashboard for habits, workouts, meals, sleep, and routine
 <td width="50%" valign="top">
 
 #### Moon Portfolio Tracker
+
 Turns GitHub contribution activity into a personal progress dashboard, with streaks and an installable iPhone PWA.
 
 `GitHub OAuth` `API integration` `PWA`
@@ -160,6 +165,7 @@ Turns GitHub contribution activity into a personal progress dashboard, with stre
 <td width="50%" valign="top">
 
 #### CoreDB
+
 A C++ exploration of how databases work underneath: data storage, management, and the concepts behind them.
 
 `C++` `Systems programming` `Database fundamentals`
@@ -170,6 +176,7 @@ A C++ exploration of how databases work underneath: data storage, management, an
 <td width="50%" valign="top">
 
 #### MonnWear
+
 An early web development project in PHP, built on XAMPP.
 
 `PHP` `XAMPP`
@@ -187,19 +194,20 @@ An early web development project in PHP, built on XAMPP.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css,nodejs,express,python,fastapi,php&theme=dark" alt="Languages and frameworks" />
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,elasticsearch,docker,kubernetes,git,github&theme=dark" alt="Data and infrastructure" />
 
 </div>
 
-| | |
+| Area | Technologies |
 |---|---|
 | **Frontend** | React · React Native (Expo) · TypeScript · Vite · Tailwind CSS · shadcn/ui |
 | **Backend** | Node.js · Express · Python · FastAPI · REST APIs |
 | **Data & search** | PostgreSQL · MySQL · Prisma · Elasticsearch |
 | **Infrastructure** | Docker · Docker Compose · Git · GitHub · Kubernetes configurations |
-| **Languages** | TypeScript · JavaScript · Python  · PHP · HTML · CSS |
-
+| **Languages** | TypeScript · JavaScript · Python · PHP · HTML · CSS |
 
 ---
 
@@ -235,9 +243,13 @@ I'm looking for a **4–6 month PFE internship starting January/February 2027**,
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-F3EFE8?style=for-the-badge&labelColor=0B1020&color=C58D9F)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-F3EFE8?style=for-the-badge&labelColor=0B1020&color=C58D9F)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/EMAIL-F3EFE8?style=for-the-badge&labelColor=0B1020&color=C58D9F)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-F3EFE8?style=for-the-badge&labelColor=0B1020&color=C58D9F)](https://mounaportfolio.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-F3EFE8?style=for-the-badge&labelColor=0B1020&color=C58D9F)](https://www.linkedin.com/in/mouna-smiri-1aa234338/)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-F3EFE8?style=for-the-badge&labelColor=0B1020&color=C58D9F)](https://github.com/mounasmiri)
+
+[![Email](https://img.shields.io/badge/EMAIL-F3EFE8?style=for-the-badge&labelColor=0B1020&color=C58D9F)](mailto:Mouna.smiri@etudiant-isi.utm.tn)
 
 <img src="https://komarev.com/ghpvc/?username=mounasmiri&label=Profile+views&color=C58D9F&style=flat-square&labelColor=0B1020" alt="Profile views" />
 
